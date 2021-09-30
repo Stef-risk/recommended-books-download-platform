@@ -19,7 +19,7 @@ import java.io.FileNotFoundException;
 
 @Controller
 public class DownloadController {
-    private static final String DIRECTORY="C:/PDF";
+    private static final String DIRECTORY="D:/PDF";
     private static final String DEFAULT_FILENAME="java.pdf";
 
     @Autowired
